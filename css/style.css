@@ -125,7 +125,7 @@ body{
     cursor: pointer;
 }
 .btn:hover{
-    background-color:#4e39f5;
+    background-color: #4e39f5 ;
 }
 
 @media (max-width: 600px) {
